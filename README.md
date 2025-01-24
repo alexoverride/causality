@@ -7,3 +7,5 @@ Causality features:
  - real-time movement
  - a reaction system where reactions can resolve before or after their triggers
  - and time dilation per unit, with each reaction tree layer dilating time more, slowing the action down to allow time to think and create complex reaction trees.
+
+This is the first entry of my gameplay programmer portfolio.  More to come!
